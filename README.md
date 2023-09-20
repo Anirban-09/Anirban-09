@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anirban-09
+- 👋 Hi, I’m @Anirban Paul
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ML Projects
